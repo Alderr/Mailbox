@@ -1,0 +1,12 @@
+[submodule "mailbox-frontend"]
+	path = mailbox-frontend
+	url = https://github.com/Alderr/mailbox-frontend.git
+[submodule "mailbox-backend"]
+	path = mailbox-backend
+	url = https://github.com/Alderr/mailbox-backend.git
+[submodule "mailbox-aws-sns-server"]
+	path = mailbox-aws-sns-server
+	url = https://github.com/Alderr/mailbox-aws-sns-server.git
+[submodule "mailbox-aws-ses"]
+	path = mailbox-aws-ses
+	url = https://github.com/Alderr/mailbox-aws-ses.git
